@@ -1,0 +1,21 @@
+Theme 'GrayMeetsPurple' info:
+
+Theme includes,
+	-Logo template (PSD and CPT file)
+	-Topic image template (PSD and CPT file)
+	-New Download and Weblinks logo
+	-Template file (tar.gz)
+	
+Installation,
+	-Install it just like any other theme! 
+	Copy the logo-en.gif from the extras directory into the '/modules/mydownloads/images/' directory,
+	the logo.gif from the extras directory into the '/modules/mylinks/images/' directory.
+	
+	The print.gif and friend.gif from the extras directory goes into the '/modules/news/images/' 
+	directory. That's it!
+
+
+We hope you will enjoy this theme.
+
+Incama -staff-
+incama@incama.nl
